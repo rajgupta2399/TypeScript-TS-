@@ -97,4 +97,26 @@ if (typeof notSure === "number") {
   notSure.length;
 }
 
-// Never Type => No value Return
+// Never Type => No value Return - Never occur - Throw Error
+
+// function infiniteLoop(): never {
+//   while (true) {
+//     console.log(1);
+//   }
+// }
+
+// infiniteLoop();
+
+// never return any value
+// function throwError(message: string): never {
+//   throw new Error(message);
+// }
+
+// throwError("something went wrong");
+
+// Void Type :
+function logMessage(message: string): void {
+  console.log(message);
+  // return undefined;
+}
+logMessage("hello tech");
