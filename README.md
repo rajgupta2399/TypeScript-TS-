@@ -37,3 +37,14 @@ TypeScript is a statically-typed superset of JavaScript, which means that it ext
 The most significant difference between TypeScript and JavaScript is the support for static typing. In TypeScript, developers can explicitly declare the data types of variables, function parameters, and return values. For example, a variable can be declared with a specific type, such as number, string, boolean, array, or custom types defined through interfaces or classes.
 
 #### Basic Types In JavaScript & TypeScript
+- String
+- Symbol
+- Number 
+- Null
+- BigInt
+- Boolean
+- Object : Arrays & Obj
+- Void
+- Never
+- Any
+- Unknown
