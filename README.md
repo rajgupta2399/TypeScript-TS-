@@ -48,3 +48,4 @@ The most significant difference between TypeScript and JavaScript is the support
 - Never
 - Any
 - Unknown
+- Tuple
