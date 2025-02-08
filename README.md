@@ -50,3 +50,4 @@ The most significant difference between TypeScript and JavaScript is the support
 - Unknown
 - Tuple
 - Enums
+- Type Inference
