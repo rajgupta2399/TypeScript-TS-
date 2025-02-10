@@ -52,3 +52,4 @@ The most significant difference between TypeScript and JavaScript is the support
 - Enums
 - Type Inference
 - Type Assertion
+- union types
