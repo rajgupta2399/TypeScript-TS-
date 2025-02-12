@@ -54,3 +54,4 @@ The most significant difference between TypeScript and JavaScript is the support
 - Type Assertion
 - Union types
 - Type Narrowing
+-  Interfaces & Type Aliases & Intersection types
